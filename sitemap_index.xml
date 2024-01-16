@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://moca2016.olografix.org/page-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/page-sitemap.xml</loc>
 		<lastmod>2016-09-24T06:09:52+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/attachment-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/attachment-sitemap.xml</loc>
 		<lastmod>2016-08-14T12:55:01+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/services-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/services-sitemap.xml</loc>
 		<lastmod>2016-08-11T07:24:34+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/employees-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/employees-sitemap.xml</loc>
 		<lastmod>2024-01-14T17:45:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/clients-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/clients-sitemap.xml</loc>
 		<lastmod>2016-08-07T14:14:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/projects-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/projects-sitemap.xml</loc>
 		<lastmod>2016-07-12T15:07:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/location-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/location-sitemap.xml</loc>
 		<lastmod>2016-08-01T21:27:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/event-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/event-sitemap.xml</loc>
 		<lastmod>2016-08-19T09:46:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/wysijap-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/wysijap-sitemap.xml</loc>
 		<lastmod>2016-06-30T17:55:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://moca2016.olografix.org/category-sitemap.xml</loc>
+		<loc>https://moca2016.olografix.org/category-sitemap.xml</loc>
 		<lastmod>2024-01-14T17:45:18+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

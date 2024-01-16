@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://moca2016.olografix.org/it/eventi/luoghi/</loc>
+		<loc>https://moca2016.olografix.org/it/eventi/luoghi/</loc>
 		<lastmod>2016-08-01T21:27:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/locations/parco-ex-caserma-di-cocco-pescara/</loc>
+		<loc>https://moca2016.olografix.org/locations/parco-ex-caserma-di-cocco-pescara/</loc>
 		<lastmod>2016-04-23T17:04:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/locations/parco-caserma-di-cocco/</loc>
+		<loc>https://moca2016.olografix.org/locations/parco-caserma-di-cocco/</loc>
 		<lastmod>2016-08-01T21:27:44+00:00</lastmod>
 	</url>
 </urlset>

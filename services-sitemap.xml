@@ -1,107 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://moca2016.olografix.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/</loc>
+		<loc>https://moca2016.olografix.org/it/services/</loc>
 		<lastmod>2016-08-11T07:24:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/by-train/</loc>
+		<loc>https://moca2016.olografix.org/it/services/by-train/</loc>
 		<lastmod>2016-07-10T23:13:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/in-aereo/</loc>
+		<loc>https://moca2016.olografix.org/it/services/in-aereo/</loc>
 		<lastmod>2016-07-11T08:43:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/in-macchina/</loc>
+		<loc>https://moca2016.olografix.org/it/services/in-macchina/</loc>
 		<lastmod>2016-07-11T09:42:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/hotel-salus/</loc>
+		<loc>https://moca2016.olografix.org/it/services/hotel-salus/</loc>
 		<lastmod>2016-07-18T10:54:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/bilocale-da-mare/</loc>
+		<loc>https://moca2016.olografix.org/it/services/bilocale-da-mare/</loc>
 		<lastmod>2016-07-18T10:56:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/drone-are-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/drone-are-welcome-2/</loc>
 		<lastmod>2016-08-05T16:22:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/child-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/child-welcome-2/</loc>
 		<lastmod>2016-08-05T16:22:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/dog-are-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/dog-are-welcome-2/</loc>
 		<lastmod>2016-08-05T16:23:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/lockpicker-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/lockpicker-welcome-2/</loc>
 		<lastmod>2016-08-05T16:23:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/lockpicker-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/lockpicker-are-welcome/</loc>
 		<lastmod>2016-08-05T16:23:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/dog-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/dog-are-welcome/</loc>
 		<lastmod>2016-08-05T16:23:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/drone-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/drone-are-welcome/</loc>
 		<lastmod>2016-08-05T16:23:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/hotel-salus-en/</loc>
+		<loc>https://moca2016.olografix.org/en/services/hotel-salus-en/</loc>
 		<lastmod>2016-08-05T16:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/two-room-apartment-near-sea/</loc>
+		<loc>https://moca2016.olografix.org/en/services/two-room-apartment-near-sea/</loc>
 		<lastmod>2016-08-05T16:28:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/by-plane/</loc>
+		<loc>https://moca2016.olografix.org/en/services/by-plane/</loc>
 		<lastmod>2016-08-05T16:28:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/by-train-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/by-train-2/</loc>
 		<lastmod>2016-08-05T16:29:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/by-car/</loc>
+		<loc>https://moca2016.olografix.org/en/services/by-car/</loc>
 		<lastmod>2016-08-05T16:33:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/girlfriend-are-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/girlfriend-are-welcome-2/</loc>
 		<lastmod>2016-08-11T07:20:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/girlfriend-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/girlfriend-are-welcome/</loc>
 		<lastmod>2016-08-11T07:20:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/boyfriend-are-welcome-2/</loc>
+		<loc>https://moca2016.olografix.org/en/services/boyfriend-are-welcome-2/</loc>
 		<lastmod>2016-08-11T07:20:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/boyfriend-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/boyfriend-are-welcome/</loc>
 		<lastmod>2016-08-11T07:21:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/child-are-welcome/</loc>
+		<loc>https://moca2016.olografix.org/it/services/child-are-welcome/</loc>
 		<lastmod>2016-08-11T07:21:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/it/services/hotel-holiday/</loc>
+		<loc>https://moca2016.olografix.org/it/services/hotel-holiday/</loc>
 		<lastmod>2016-08-11T07:24:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/hotel-holiday-en/</loc>
+		<loc>https://moca2016.olografix.org/en/services/hotel-holiday-en/</loc>
 		<lastmod>2016-08-11T07:24:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://moca2016.olografix.org/en/services/</loc>
+		<loc>https://moca2016.olografix.org/en/services/</loc>
 		<lastmod>2016-08-11T07:24:34+00:00</lastmod>
 	</url>
 </urlset>
